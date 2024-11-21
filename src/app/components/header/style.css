@@ -1,0 +1,246 @@
+
+/*fixed sidebar */
+.fixedSidebar {
+    position: fixed;
+    left: 10px;
+    top: 96px;
+    width: 250px;
+    background: transparent;
+    padding: 0;
+    z-index: 9999999;
+    text-align: center;
+  }
+  
+  @media screen and (min-width: 1200px) and (max-width: 1300px) {
+    .fixedSidebar {
+      position: fixed;
+      left: 10px;
+      top: 96px;
+      width: 191px;
+      background: transparent;
+      padding: 0;
+      z-index: 9999999;
+      text-align: center;
+    }
+  }
+  
+  @media screen and (min-width: 1100px) and (max-width: 1200px) {
+    .fixedSidebar {
+      position: fixed;
+      left: 10px;
+      top: 96px;
+      width: 183px;
+      background: transparent;
+      padding: 0;
+      z-index: 9999999;
+      text-align: center;
+    }
+  
+  }
+  
+  @media screen and (min-width: 1000px) and (max-width: 1100px) {
+    .fixedSidebar {
+      position: fixed;
+      left: 10px;
+      top: 96px;
+      width: 167px;
+      background: transparent;
+      padding: 0;
+      z-index: 9999999;
+      text-align: center;
+    }
+  }
+  
+  
+  .fixedSidebar ul li a {
+    letter-spacing: .1rem;
+  
+    font-weight: 500;
+    line-height: 26px;
+    text-transform: capitalize;
+    display: block;
+    width: 100%;
+    padding: 2rem 0;
+    position: relative;
+    text-align: center;
+    font-size: 16px;
+  }
+  
+  .fixedSidebar ul li a:hover {
+    font-weight: 700;
+  }
+  
+  
+  .fixedSidebar h4 {
+    margin-top: -60px;
+    font-size: 23px;
+    font-weight: 600;
+  }
+  
+  @media screen and (min-width: 1000px) and (max-width: 1300px) {
+    .fixedSidebar h4 {
+      margin-top: -75px;
+      font-size: 19px;
+      font-weight: 600;
+    }
+  }
+  
+  /* @media screen and (min-width: 1100px) and (max-width: 1200px) {
+    .fixedSidebar h4 {
+      margin-top: -75px;
+     
+      color: white;
+      font-size: 18px;
+      font-weight: 600;
+    }
+  } */
+  
+  /* 
+  @media screen and (min-width: 1000px) and (max-width: 1100px) {
+    .fixedSidebar h4 {
+      margin-top: 68px;
+     
+      color: white;
+      font-size: 18px;
+      font-weight: 600;
+    }
+  } */
+  
+  @media (max-width: 1000px) {
+    .fixedSidebar {
+      display: none !important;
+    }
+  }
+  
+  .fixedSidebar ul {
+    margin-top: 20px;
+    /* Adjust margin if needed to keep space between h4 and ul */
+  }
+  
+  .fixedSidebar ul li:not(:last-of-type) a::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 1px;
+    width: 50px;
+    border-bottom: 1px solid white;
+  
+  
+  }
+  
+  .othersidebar ul li:not(:last-of-type) a::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 1px;
+    width: 50px;
+    border-bottom: 1px solid black;
+  }
+  
+  .sidebarfixedbg {
+    background-color: #f5f5f5;
+  
+  }
+  
+  .fixedSidebar .invertbg a {
+    color: #606060;
+  
+  }
+  
+  .fixedSidebar .invertbg h4 {
+    color: black;
+  }
+  
+  .fixedSidebar .invertbg ul li:not(:last-of-type) a::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 1px;
+    width: 50px;
+    border-bottom: 1px solid black;
+  }
+  
+  .homesidebar {
+    margin-top: 70px;
+  }
+  
+  .othersidebar {
+    margin-top: 70px;
+  }
+  
+  @media (max-width: 1000px) {
+    .sidebarcolumn {
+      display: none;
+    }
+  }
+  
+  @media screen and (min-width: 300px) and (max-width: 1000px) {
+    .sidebarsecondcol {
+      width: 100%;
+    }
+  }
+  
+  
+  
+  .infos .modal-content {
+    background-color: #003241 !important;
+  }
+  
+  .infos .modal-header {
+    border-bottom: 0;
+    justify-content: end;
+  }
+  
+  .infos .modal-header .closebutton {
+    background-color: white;
+    color: black;
+  }
+  
+  .infos .modal-content p {
+    line-height: 24px !important;
+    color: white !important;
+    font-weight: bold;
+  }
+  
+  .infos .modal-content .infopopupimgae {
+    height: 200px;
+  }
+  
+  
+  
+  
+  #google_translate_element .goog-logo-link {
+    display: none !important;
+  }
+  
+  #google_translate_element .goog-te-gadget {
+    color: transparent;
+  }
+  
+  /* Optionally hide the Google Translate frame */
+  .goog-te-banner-frame.skiptranslate {
+    display: none !important;
+  }
+  
+  .goog-te-combo {
+    font-family: "Roboto", sans-serif;
+    border-radius: 4px;
+    padding: 5px;
+  }
+  
+  .VIpgJd-ZVi9od-l4eHX-hSRGPd {
+    display: none;
+  }
+  
+  .selectbox {
+    padding-top: 5px;
+    z-index: 99999999999;
+  }
+  
+  

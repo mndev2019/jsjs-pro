@@ -11,6 +11,11 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        nunito: ['var(--font-nunito)', 'sans-serif'],
+        libreCaslon: ['var(--font-libreCaslon)', 'sans-serif'],
+        Montserrat: ['var(--font-Montserrat)', 'sans-serif'],
+      },
     },
   },
   plugins: [],

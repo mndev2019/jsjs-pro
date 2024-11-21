@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "1",
+    "title": "Album / Movie / Song",
+    "image": "../../public/images/music-img.jpg",
+    "short_description":"Developing a cohesive artistic vision through a collection of songs or a soundtrack that aligns with the emotional arc of an album or film, aiming to captivate audiences with memorable melodies and impactful soundscapes.",
+    "url": "corporate-law"
+  },
+  {
+    "_id": "2",
+    "title": "Singers",
+    "image": "/images/music-img.jpg",
+    "short_description":"Delivering powerful and expressive vocal performances that convey the depth and essence of each song, connecting with listeners on an emotional level and bringing lyrics to life.",
+    "url": "intellectual-property"
+  },
+  {
+    "_id": "3",
+    "title": "Music Composer",
+    "image": "/images/music-img.jpg",
+    "short_description":"Creating intricate musical compositions that blend harmony, melody, and rhythm to enhance storytelling, capturing the mood of scenes, or evoking specific emotions that resonate long after the music stops.",
+    "url": "family-law"
+  },
+  {
+    "_id": "4",
+    "title": "Lyricist",
+    "image": "/images/music-img.jpg",
+    "short_description":"Crafting poetic and meaningful lyrics that capture universal themes, personal stories, or cultural messages, aiming to make a deep impact through words that linger and inspire thought.",
+    "url": "tax-law"
+  },
+  {
+    "_id": "5",
+    "title": "Language",
+    "image": "/images/employment-law.jpg",
+    "short_description":"Transcending language barriers in music, making lyrics, themes, and rhythms accessible and relatable to diverse audiences, fostering cross-cultural appreciation and universal connection through music.",
+    "url": "employment-law"
+  },
+  {
+    "_id": "6",
+    "title": "Music Company",
+    "image": "/images/employment-law.jpg",
+    "short_description":"Supporting artists and their creative vision by managing the production, promotion, and distribution of music, helping talents reach audiences globally while ensuring quality and consistency across all channels.",
+    "url": "employment-law"
+  },
+  {
+    "_id": "7",
+    "title": "Duration",
+    "image": "/images/employment-law.jpg",
+    "short_description":"Optimizing song lengths to maintain listener engagement, balancing artistic expression with attention spans, and creating well-paced albums or soundtracks that leave a lasting impression.",
+    "url": "employment-law"
+  }
+]

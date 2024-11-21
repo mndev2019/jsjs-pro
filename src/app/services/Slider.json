@@ -1,0 +1,75 @@
+[
+  {
+    "content": {
+      "title": {
+        "text": "We work together for a just sustainable world free from poverty and hunger"
+      },
+      "description": [
+        {
+          "text1": "Big B Foundation",
+          "text2": "An NGO aimed at bringing a ray of hope and immense joy to people’s lives is a self-thought and innovative idea of Shashikant Ji that offers unwavering support to all those who need it!"
+        },
+        {
+          "text3": "Connect With Us & Distribute Happiness!",
+          "text4": "Let’s All Smile From Our Hearts!!"
+        }
+      ],
+      "button": {
+        "text": "Read More"
+      },
+      "image": {
+        "src": "/images/ngo-1.jpg",
+        "alt": "slider-1"
+      }
+    }
+  },
+  {
+    "content": {
+      "title": {
+        "text": "We work together for a just sustainable world free from poverty and hunger"
+      },
+      "description": [
+        {
+          "text1": "Big B Foundation",
+          "text2": "An NGO aimed at bringing a ray of hope and immense joy to people’s lives is a self-thought and innovative idea of Shashikant Ji that offers unwavering support to all those who need it!"
+        },
+        {
+          "text3": "Connect With Us & Distribute Happiness!",
+          "text4": "Let’s All Smile From Our Hearts!!"
+        }
+      ],
+      "button": {
+        "text": "Read More"
+      },
+      "image": {
+        "src": "/images/ngo-1.jpg",
+        "alt": "slider-1"
+      }
+    }
+  },
+  {
+    "content": {
+      "title": {
+        "text": "We work together for a just sustainable world free from poverty and hunger"
+      },
+      "description": [
+        {
+          "text1": "Big B Foundation",
+          "text2": "An NGO aimed at bringing a ray of hope and immense joy to people’s lives is a self-thought and innovative idea of Shashikant Ji that offers unwavering support to all those who need it!"
+        },
+        {
+          "text3": "Connect With Us & Distribute Happiness!",
+          "text4": "Let’s All Smile From Our Hearts!!"
+        }
+      ],
+      "button": {
+        "text": "Read More"
+      },
+      "image": {
+        "src": "/images/ngo-1.jpg",
+        "alt": "slider-1"
+      }
+    }
+  }
+]
+

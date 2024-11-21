@@ -1,0 +1,48 @@
+{
+  "logo": {
+    "src": "/images/logo.png",
+    "alt": "Company Logo",
+    "link": "/"
+  },
+  "navbar": [
+    {
+      "title": "Home"
+    },
+    {
+      "title": "About"
+    },
+    {
+      "title": "JsJs-Foundation"
+    },
+    {
+      "title": "Vedio-gellery",
+      "subitems": [
+        {
+          "title": "Web Development",
+          "link": "/services/web-development"
+        },
+        {
+          "title": "Digital Marketing",
+          "link": "/services/digital-marketing"
+        },
+        {
+          "title": "SEO",
+          "link": "/services/seo"
+        }
+      ]
+    },
+    {
+      "title": "Photo-gellery"
+    },
+    {
+      "title": "Testimonials"
+    },
+    {
+      "title": "Contact-us"
+    }
+  ],
+  "button": {
+    "title": "Get Started",
+    "link": ""
+  }
+}
